@@ -1,0 +1,8 @@
+{
+  "labels":[
+    "normal",
+    "manipulative"
+  ],
+  "threshold":0.0,
+  "positive_label":null
+}
